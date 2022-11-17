@@ -226,19 +226,4 @@ th {
   
 }
 
-/* Ocultar tabelas na tarefa */
-
-#aplicacaoCaminhao {
-	display: none;
-}
-#especificacoesPedido {
-	display: none;
-}
-#infoPagamentoPedido {
-	display: none;
-}
-
-#anexos {
-	display: none;
-}
 
